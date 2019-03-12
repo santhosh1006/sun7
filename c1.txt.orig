@@ -1,0 +1,13 @@
+`abc
+def
+ghi
+<<<<<<< HEAD
+jklmno
+pqr
+stu
+vwxyz
+=======
+jkl mno
+pqrst
+uvw xyz
+>>>>>>> 3
